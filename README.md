@@ -1,0 +1,2 @@
+# Gedig-sample
+simple website
